@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_5.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_5.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_functional.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_functional.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_developer.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_3.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_3.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_book.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_book.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_7.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_7.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recomendation.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_recomendation.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_4.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_4.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_2.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_1.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\raw_muz.mp3.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\raw\\muz.mp3"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_6.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable-v24\\img_6.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_horoscope.xml.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\layout\\activity_horoscope.xml"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_9.png.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\drawable\\img_9.png"
+    },
+    {
+        "merged": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Progs\\AndroidProjects\\CalmYou\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
